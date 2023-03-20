@@ -17,21 +17,7 @@
 mono_crash.*
 
 # Build results
-[Dd]ebug/
-[Dd]ebugPublic/
-[Rr]elease/
-[Rr]eleases/
-x64/
-x86/
-[Ww][Ii][Nn]32/
-[Aa][Rr][Mm]/
-[Aa][Rr][Mm]64/
-bld/
-[Bb]in/
-[Oo]bj/
-[Oo]ut/
-[Ll]og/
-[Ll]ogs/
+
 
 # Visual Studio 2015/2017 cache/options directory
 .vs/
@@ -361,3 +347,24 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+bin/Debug/net6.0-windows/ejercicio2.runtimeconfig.json
+bin/Debug/net6.0-windows/ejercicio2.exe
+bin/Debug/net6.0-windows/ejercicio2.dll
+bin/Debug/net6.0-windows/ejercicio2.deps.json
+obj/Debug/net6.0-windows/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
+obj/Debug/net6.0-windows/apphost.exe
+obj/Debug/net6.0-windows/ejercicio2.AssemblyInfo.cs
+obj/Debug/net6.0-windows/ejercicio2.csproj.BuildWithSkipAnalyzers
+obj/Debug/net6.0-windows/ejercicio2.csproj.FileListAbsolute.txt
+obj/Debug/net6.0-windows/ejercicio2.designer.deps.json
+obj/Debug/net6.0-windows/ejercicio2.designer.runtimeconfig.json
+obj/Debug/net6.0-windows/ejercicio2.dll
+obj/Debug/net6.0-windows/ejercicio2.Form1.resources
+obj/Debug/net6.0-windows/ejercicio2.GeneratedMSBuildEditorConfig.editorconfig
+obj/Debug/net6.0-windows/ejercicio2.GlobalUsings.g.cs
+obj/Debug/net6.0-windows/ref/ejercicio2.dll
+obj/Debug/net6.0-windows/refint/ejercicio2.dll
+obj/ejercicio2.csproj.nuget.dgspec.json
+obj/ejercicio2.csproj.nuget.g.props
+obj/ejercicio2.csproj.nuget.g.targets
+obj/project.assets.json

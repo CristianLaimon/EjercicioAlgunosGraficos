@@ -11,6 +11,7 @@ namespace ejercicio2
         {
             Graphics papel;
             Image image = Image.FromFile(@"imagen\interlude_newyear.png");
+                 
             papel = pictureBox1.CreateGraphics();
             Bitmap ima = new Bitmap(image);
             Pen lapiz = new Pen(Color.Black);
