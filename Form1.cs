@@ -10,8 +10,9 @@ namespace ejercicio2
         private void button1_Click(object sender, EventArgs e)
         {
             Graphics papel;
+            Image image = Image.FromFile(@"imagen\interlude_newyear.png");
             papel = pictureBox1.CreateGraphics();
-            Bitmap ima = new Bitmap(@"c:\users\itan_\desktop\ejercicio2\imagen\interlude_newyear.png");
+            Bitmap ima = new Bitmap(image);
             Pen lapiz = new Pen(Color.Black);
             SolidBrush pincelRelleno = new SolidBrush(Color.Purple);
             papel.DrawRectangle(lapiz, 10, 10, 100, 50);
